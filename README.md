@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmed Khan from pakis
+- 👋 Hi, I’m Ahmed Khan from pakistan
 - 👀 I’m interested in programming, server, development and freelancing. 
 - 🌱 I’m currently practicing 
 - 💞️ I’m looking to collaborate on php projects
